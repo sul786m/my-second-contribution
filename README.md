@@ -1,1 +1,1 @@
-# my-second-contribution
+This is my second GitHub contribution for verification.
